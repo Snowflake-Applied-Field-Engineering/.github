@@ -7,6 +7,8 @@ This repository contains various tools, scripts, guides, and resources developed
 
 ### ⚠️ IMPORTANT DISCLAIMER ⚠️
 
+
+
 **This repository and its contents are NOT supported by Snowflake.**
 
 The resources, scripts, and documentation provided here are created and maintained independently. They are intended for internal use, educational purposes, or to streamline specific workflow tasks **at your own risk**.
@@ -22,6 +24,7 @@ The resources, scripts, and documentation provided here are created and maintain
 
 The goal of this repository is to serve as a collaborative knowledge base for Field Engineers to share best practices, automate repetitive tasks, and accelerate problem-solving through reusable code and documentation.
 
+<img width="3860" height="1696" alt="image" src="https://github.com/user-attachments/assets/ffe616ab-b387-44e8-8119-16a9b29e16a0" />
 
 
 ###  Repository Structure
