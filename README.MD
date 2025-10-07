@@ -1,4 +1,5 @@
 # Field Engineering Tools Repository Template
+This repo and organziation is not supported by Snowflake, use at your own risk. These are collections of scripts and automations that we use.
 
 This repository serves as a central location for scripts and tools used by the Applied Field Engineering team. Please follow these guidelines when adding new scripts or modifying existing ones.
 
