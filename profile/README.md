@@ -3,7 +3,7 @@
 
 This repository contains various tools, scripts, guides, and resources developed for **Applied Field Engineering (AFE)** purposes. The content here is designed to assist engineers with deployment, troubleshooting, testing, and other field-related tasks.
 
-***
+
 
 ### ⚠️ IMPORTANT DISCLAIMER ⚠️
 
@@ -16,13 +16,13 @@ The resources, scripts, and documentation provided here are created and maintain
 * **Do not use these tools in production environments or for customer-facing solutions without thorough testing and validation.**
 * **Snowflake Support will not provide assistance for issues arising from the use of these materials.**
 
-***
+
 
 ### Purpose
 
 The goal of this repository is to serve as a collaborative knowledge base for Field Engineers to share best practices, automate repetitive tasks, and accelerate problem-solving through reusable code and documentation.
 
-***
+
 
 ###  Repository Structure
 
@@ -33,7 +33,7 @@ The repository is organized into the following general categories:
 * **`/templates`**: Includes reusable configuration files, infrastructure-as-code templates, and report formats.
 * **`/tools`**: Dedicated folders for larger, compiled applications or tools that offer a specific utility.
 
-***
+
 
 ###  Contributing
 
